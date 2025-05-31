@@ -1,0 +1,18 @@
+# Required external libraries for the project
+
+# Graph processing
+networkx
+
+# Data visualization
+plotly>=5.22.0
+
+# Testing and code checking
+python-ta~=2.9.1
+
+# Additional libraries
+scipy
+numpy
+pytest
+
+# GUI and visualization
+pygame==2.6.1
