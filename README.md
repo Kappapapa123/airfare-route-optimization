@@ -70,9 +70,9 @@ We also made another function that returns that shortest path between two airpor
 
 ## Instruction
 
-When the `main.py` file is run, the visualization of the entire graph will show up first.
+First install the project2-phase2-group_21101 (2).zip and decompress.
 
-![Visualization of entire graph](スクリーンショット 2025-03-30 215050.png)
+then, when the `main.py` file is run, the visualization of the entire graph will show up first.
 
 Then a prompt will ask for your starting airport.
 
