@@ -21,6 +21,8 @@ For this project we used a dataset of airline flight routes with the average air
 
 Based on this dataset, we constructed a graph where every vertex represents an airport and the edges represent the possible paths between each airport. For each vertex (airport), add the attributes of the airport code, the city the airport is in, and the coordinates of the airport. Also, in each vertex, the neighbor attribute will be a dictionary with the neighboring airports as its keys and a list as its value with the information about the flight route going from the vertex to its neighbor (including distance, average fare, lowest fare).
 
+![スクリーンショット 2025-03-30 212141](https://github.com/user-attachments/assets/800ffaa5-c27f-483c-94cd-be769c838b2f)
+
 ### Graph Structure
 
 1. **Vertices**
